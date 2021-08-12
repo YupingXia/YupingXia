@@ -1,0 +1,19 @@
+
+	// Record.idl : IDL source for Record.exe
+//
+// This file will be processed by the MIDL tool to
+// produce the type library (Record.tlb) and marshalling code.
+import "oaidl.idl";
+import "ocidl.idl";
+[
+	uuid(855B340D-241E-456B-9A11-7391EB860C54),
+	version(1.0),
+	helpstring("Record 1.0 Type Library")
+]
+library RecordLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
+
+	
