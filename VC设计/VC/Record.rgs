@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{CD0BB149-412F-46DD-B773-19D43F514AE3} = s 'Record'
+		'Record.EXE'
+		{
+			val AppID = s {CD0BB149-412F-46DD-B773-19D43F514AE3}
+		}
+	}
+}
