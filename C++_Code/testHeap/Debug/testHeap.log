@@ -1,0 +1,6 @@
+﻿  testHeap.cpp
+C:\Users\xyp\Desktop\IWorkplace\IC++\testHeap\sorttest.h(26,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\xyp\Desktop\IWorkplace\IC++\testHeap\testHeap.cpp(137,9): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\xyp\Desktop\IWorkplace\IC++\testHeap\testHeap.cpp(155,9): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\xyp\Desktop\IWorkplace\IC++\testHeap\testHeap.cpp(157,9): warning C4018: “<”: 有符号/无符号不匹配
+  testHeap.vcxproj -> C:\Users\xyp\Desktop\IWorkplace\IC++\testHeap\Debug\testHeap.exe
