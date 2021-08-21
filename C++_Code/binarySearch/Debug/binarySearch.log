@@ -1,0 +1,3 @@
+﻿  binarySearch.cpp
+C:\Users\xyp\Desktop\IWorkplace\IC++\binarySearch\binarySearch.cpp(45): warning C4715: “binarySearch1”: 不是所有的控件路径都返回值
+  binarySearch.vcxproj -> C:\Users\xyp\Desktop\IWorkplace\IC++\binarySearch\Debug\binarySearch.exe
